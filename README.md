@@ -3,17 +3,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houdabelhad1" alt="houdabelhad1" /></a> </p>
 
-- 🔭 I’m currently working on **a personal portfolio using React.JS**
+- 🔭 I’m currently working on **NOC, a platform that helps patients find nurses for in-home care (NurseOnCall)**
 
-- 🌱 I’m currently learning **React.JS and Python**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **On Open Source Projects**
 
-- 💬 Ask me about **C,HTML,CSS,JAVA,PHP and Linux**
+- 💬 Ask me about **C, HTML, CSS, JAVA, PHP, Linux, React.JS, MySQL, Big Data, Spring Boot, and DevOps.**
 
 - 📫 How to reach me **diyaenour75@gmail.com**
 
-- ⚡ Fun fact **I like drawing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
